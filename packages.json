@@ -18,4 +18,17 @@
   "author": "SilkEdit dev team",
   "license": "ISC"
 }
+,{
+  "name": "hello",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "",
+  "keywords": [
+  ],
+  "author": "",
+  "license": "Apache version 2.0",
+  "dependencies": {
+  }
+}
 ]
