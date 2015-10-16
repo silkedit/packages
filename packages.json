@@ -1,0 +1,21 @@
+[
+{
+  "name": "silkedit",
+  "version": "0.1.0",
+  "description": "SilkEdit default packages",
+  "main": "index.js",
+  "author": "",
+  "license": "Apache version 2.0",
+  "dependencies": {
+    "fs-extra": "0.19.0"
+  }
+}
+,{
+  "name": "vim",
+  "version": "0.1",
+  "description": "vim emulation package",
+  "main": "index.js",
+  "author": "SilkEdit dev team",
+  "license": "ISC"
+}
+]
