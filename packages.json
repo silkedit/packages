@@ -31,10 +31,7 @@
   "version": "0.1.0",
   "description": "SilkEdit hello package example",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/silkedit/hello"
-  },
+  "repository": "silkedit/hello",
   "author": {
     "name": "SilkEdit team"
   },
@@ -47,7 +44,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/silkedit/yaml-validator"
+    "url": "https://github.com/silkedit/yaml-validator.git"
   },
   "author": {
     "name": "SilkEdit team"
