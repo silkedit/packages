@@ -12,11 +12,12 @@
 }
 ,{
   "name": "vim",
-  "version": "0.1",
-  "description": "vim emulation package",
+  "version": "0.1.0",
+  "description": "Vim emulation package",
   "main": "index.js",
-  "author": "SilkEdit dev team",
-  "license": "ISC"
+  "repository": "silkedit/vim",
+  "author": "SilkEdit team",
+  "license": "MIT"
 }
 ,{
   "name": "word_count",
