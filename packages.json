@@ -24,5 +24,14 @@
   "dependencies": {
     "js-yaml": "3.x"
   }
+},
+{
+  "name": "vim",
+  "version": "0.1.11",
+  "description": "Vim emulation package",
+  "main": "index.js",
+  "repository": "silkedit/vim",
+  "author": "SilkEdit team",
+  "license": "MIT"
 }
 ]
