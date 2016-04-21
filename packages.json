@@ -1,7 +1,7 @@
 [
 {
   "name": "vim",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "Vim emulation",
   "main": "index.js",
   "repository": "silkedit/vim",
@@ -15,7 +15,7 @@
 },
 {
   "name": "word_count",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Word count package",
   "main": "index.js",
   "repository": "silkedit/word_count",
@@ -29,7 +29,7 @@
 },
 {
   "name": "yaml-validator",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "YAML Validator",
   "main": "index.js",
   "repository": {
